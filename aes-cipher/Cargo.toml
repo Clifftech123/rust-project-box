@@ -1,0 +1,5 @@
+[package]
+name = "aes-cipher"
+version = "0.1.0"
+edition = "2021"
+description = "AES-256 symmetric encryption and decryption implementation (ECB and CBC modes)"

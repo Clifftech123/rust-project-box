@@ -1,0 +1,5 @@
+[package]
+name = "asteroid-game"
+version = "0.1.0"
+edition = "2021"
+description = "Terminal-based asteroid shooter game"

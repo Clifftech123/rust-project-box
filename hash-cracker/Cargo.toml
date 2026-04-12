@@ -1,0 +1,5 @@
+[package]
+name = "hash-cracker"
+version = "0.1.0"
+edition = "2021"
+description = "Dictionary and brute-force hash cracker supporting MD5 and SHA family"

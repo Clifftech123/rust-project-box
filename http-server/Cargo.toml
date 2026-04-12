@@ -1,0 +1,5 @@
+[package]
+name = "http-server"
+version = "0.1.0"
+edition = "2021"
+description = "Simple HTTP server capable of serving static files"

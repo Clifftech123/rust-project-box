@@ -1,0 +1,24 @@
+[workspace]
+members = [
+    "arithmetic-compiler",
+    "asteroid-game",
+    "chat-system",
+    "ftp-client-server",
+    "http-server",
+    "lexical-analyser",
+    "notes-manager",
+    "ping",
+    "port-scanner",
+    "qr-generator",
+    "sha-512",
+    "tcp-server",
+    "tic-tac-toe",
+    "udp-server-client",
+    "url-shortener",
+    "aes-cipher",
+    "rsa-keygen",
+    "caesar-cipher",
+    "hash-cracker",
+    "merkle-tree",
+]
+resolver = "2"

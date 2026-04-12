@@ -1,0 +1,5 @@
+[package]
+name = "caesar-cipher"
+version = "0.1.0"
+edition = "2021"
+description = "Caesar cipher and ROT13 — classic substitution ciphers with brute-force cracker"

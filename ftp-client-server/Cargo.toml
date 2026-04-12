@@ -1,0 +1,5 @@
+[package]
+name = "ftp-client-server"
+version = "0.1.0"
+edition = "2021"
+description = "FTP server and client with protocol handling and file operations"

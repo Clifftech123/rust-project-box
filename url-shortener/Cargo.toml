@@ -1,0 +1,5 @@
+[package]
+name = "url-shortener"
+version = "0.1.0"
+edition = "2021"
+description = "URL shortener service with in-memory or file-backed storage"

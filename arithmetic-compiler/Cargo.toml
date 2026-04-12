@@ -1,0 +1,5 @@
+[package]
+name = "arithmetic-compiler"
+version = "0.1.0"
+edition = "2021"
+description = "A compiler for arithmetic expressions — tokenizer, parser, and assembly code generator"

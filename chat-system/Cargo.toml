@@ -1,0 +1,5 @@
+[package]
+name = "chat-system"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-client TCP chat system with server and client"

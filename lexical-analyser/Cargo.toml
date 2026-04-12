@@ -1,0 +1,5 @@
+[package]
+name = "lexical-analyser"
+version = "0.1.0"
+edition = "2021"
+description = "Lexical analyser / tokenizer for a simple language"

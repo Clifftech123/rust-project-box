@@ -1,0 +1,5 @@
+[package]
+name = "rsa-keygen"
+version = "0.1.0"
+edition = "2021"
+description = "RSA key-pair generation, encryption, and decryption from scratch"

@@ -1,0 +1,5 @@
+[package]
+name = "merkle-tree"
+version = "0.1.0"
+edition = "2021"
+description = "Merkle tree data structure with SHA-256 hashing — used in blockchains and distributed systems"
